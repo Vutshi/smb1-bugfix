@@ -24,6 +24,9 @@ where's the CHR file?
 It has been purged from this repo to minimize copyright issues. An IPS patch file is provided in its place to apply the graphical changes. 
 Finding the CHR file and patching it is up to the user. 
 
+Where do bug reports go?
+==========
+
 special thanks
 ========================================
 - Nintendo - for creating such a legendary yet broken game, plus their console line
